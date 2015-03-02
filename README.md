@@ -3,7 +3,7 @@ Lecture de fichier MP3 et gestion des paroles (pas de gestion play liste)
 
 Grosso modo, vous rangez sur votre serveur vos fichiers MP3 de la façon suivante:
 
-Un repertoire A avec dedans autant de repertoire que d'artiste commençant par A, idem pour B...
+Un repertoire A avec dedans autant de repertoires que d'artistes commençant par A, idem pour B...
 Exemple 
 
 <img src="http://blog.passion-tarn-et-garonne.info/public/MP3-PHP/arborescence.jpg" alt="Exemple rangement" />
