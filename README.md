@@ -6,7 +6,7 @@ Grosso modo, vous rangez sur votre serveur vos fichiers MP3 de la façon suivant
 Un repertoire A avec dedans autant de repertoire que d'artiste commençant par A, idem pour B...
 Exemple 
 
-<img="http://blog.passion-tarn-et-garonne.info/public/MP3-PHP/arborescence.jpg" alt="Exemple rangement" />
+<img src="http://blog.passion-tarn-et-garonne.info/public/MP3-PHP/arborescence.jpg" alt="Exemple rangement" />
 
 Un seul fichier index.php qui fait le gros du travail:
 
