@@ -7,9 +7,13 @@ Grosso modo, vous rangez sur votre serveur vos fichiers MP3 de la façon suivant
 Un repertoire A avec dedans autant de repertoire que d'artiste commençant par A, idem pour B...
 Ce qui donnera
 A->Alphaville
+
 A->ACDC
+
 B->BB Brunes
+
 B->Blondie
+
 
 Un seul fichier index.php qui fait le gros du travail:
 
